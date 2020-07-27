@@ -13,7 +13,7 @@ public class Store {
     }
 
     public void setName(String name) {
-        this.name = name;
+        this.name ="xxxxx";
     }
 
     public String getAddress() {
