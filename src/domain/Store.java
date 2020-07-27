@@ -5,7 +5,7 @@ public class Store {
     private String address;
     private int tel;
     private String dis;
-    private int i;
+    private int sum;
 
     public String getName() {
 
