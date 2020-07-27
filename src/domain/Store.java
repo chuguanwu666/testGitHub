@@ -9,7 +9,7 @@ public class Store {
 
     public String getName() {
 
-        return name+"xxx";
+        return name+"xxxtttttt";
     }
 
     public void setName(String name) {
